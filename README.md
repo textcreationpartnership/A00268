@@ -36,9 +36,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Articles to be enquired off, within the prouince of Yorke, in the Metropoliticall visitation of the 
+
 #####Body#####
-Articles to be enquired off, within the prouince of Yorke, in the Metropoliticall visitation of the 
+
+1. ¶ARTICLES TO BE ENQVIRED off within the prouince of Yorke, in the Metropoliticall viſitation of the moſt reuerend Father in God Edwin Archbiſhoppe of Yorke, Primate of England and Metropolitane. In the .xix. yeare of the raigne of our moſt gratious ſoueraigne Lady Elizabath by the grace of God of England Fraunce and Ireland Queene, defendour of the Faith, &c.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
